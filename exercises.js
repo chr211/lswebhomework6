@@ -1,4 +1,10 @@
 //Do not change any of the function names
+//1. A function is a grouping of logical statements that performs a specific job and usually takes an input and has an output - but not always. 
+//2. Parameters are abstract values that are passed to a function definition to work with. They are used with the code logic to provide a way to show how the fuction works in general.
+//3. Arguments are specific values that are passed to a called function. These values can vary and may produce different outputs. Let's say you have a game buying function that buys games depending on how much money you have. The arguments can be the amount of money, and the function can buy more games depending on how much money you tell it you have.
+//4. If statements do certain jobs if specific conditions are true. If you are hungry - then eat food.
+
+
 
 function multiplyByTen(num) {
   //return num after multiplying it by ten
